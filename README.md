@@ -1,4 +1,4 @@
-# Trabajo Integrador - Arquitectura y Sistemas Operativos 🖥️🐳🐍
+# Trabajo Integrador - Arquitectura y Sistemas Operativos
 
 ## Tema: Virtualización
 
